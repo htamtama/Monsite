@@ -58,8 +58,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Votre_texte_de_paragraphe_3.png",
-        "logo_max_width": 275,
+        "logo": "shopify://shop_images/NUVANA-3.png",
+        "logo_max_width": 220,
         "logo_mobile_max_width": 155,
         "menu": "main-menu",
         "sidebar_menu": "",
