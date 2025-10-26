@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_tMzFXL": {
+          "type": "message",
+          "settings": {
+            "text": "Offre limitée : notre nettoyant électrique à 39,90 € au lieu de 44,90 € !",
+            "url": ""
+          }
+        },
         "message_QQ7T89": {
           "type": "message",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "message_tMzFXL",
         "message_QQ7T89",
         "message"
       ],
@@ -40,9 +48,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 15,
-        "background": "#1a1a1a",
+        "background": "#1b1e2f",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#f7f3ee"
       }
     },
     "header": {
