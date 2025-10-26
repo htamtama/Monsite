@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_QQ7T89": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite à domicile",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Paiement 100% sécurisé",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_QQ7T89",
         "message"
       ],
       "settings": {
@@ -31,7 +39,7 @@
         "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
+        "scrolling_speed": 15,
         "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
@@ -44,7 +52,7 @@
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Votre_texte_de_paragraphe_3.png",
         "logo_max_width": 275,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 155,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
