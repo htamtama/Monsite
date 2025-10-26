@@ -141,13 +141,26 @@
     "multi_column_B6M6t8": {
       "type": "multi-column",
       "blocks": {
+        "item_xWgLPY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0373.jpg",
+            "column_size": "3",
+            "title": "Mina M.",
+            "heading_tag": "h5",
+            "content": "<h6>Ce nettoyeur est super efficace pour enlever la boue et la saleté après les promenades, même entre les coussinets de mon chien. Les poils de la brosse sont très doux et respectent ses pattes. Résultat impeccable à chaque utilisation, je recommande  !</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_UdjTkw": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Karine I.",
+            "heading_tag": "h5",
+            "content": "<h6>Efficace et très pratique contrairement à celui que j avais qui était manuel</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -156,22 +169,11 @@
         "item_n3gixJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0374.jpg",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xWgLPY": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Manuel P.",
+            "heading_tag": "h5",
+            "content": "<h6>Super, mon chien et mon intérieur vous remercie. Franchement top👍</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,9 +181,9 @@
         }
       },
       "block_order": [
+        "item_xWgLPY",
         "item_UdjTkw",
-        "item_n3gixJ",
-        "item_xWgLPY"
+        "item_n3gixJ"
       ],
       "name": "Multi-column",
       "settings": {
