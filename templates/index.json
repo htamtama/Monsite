@@ -246,9 +246,9 @@
         "buy_buttons_EmQL7d": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#1b1e2f",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
