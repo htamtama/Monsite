@@ -257,6 +257,14 @@
         "pickup_availability_nxQ6TK": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_qrQptN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_1800_x_1000_px_1800_x_600_px_1600_x_500_px_-2.png",
+            "alignment": "end",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -271,7 +279,8 @@
         "variant_picker_Hh96GN",
         "quantity_selector_8fhTC3",
         "buy_buttons_EmQL7d",
-        "pickup_availability_nxQ6TK"
+        "pickup_availability_nxQ6TK",
+        "image_qrQptN"
       ],
       "name": "Featured product",
       "settings": {
