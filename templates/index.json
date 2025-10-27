@@ -182,9 +182,11 @@
     "featured_product_BJPwbG": {
       "type": "featured-product",
       "blocks": {
-        "vendor_pQkm88": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_cKnmfV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "title_n7XcXr": {
           "type": "title",
@@ -252,7 +254,7 @@
         }
       },
       "block_order": [
-        "vendor_pQkm88",
+        "liquid_cKnmfV",
         "title_n7XcXr",
         "badges_jg6NtP",
         "price_xBVxek",
