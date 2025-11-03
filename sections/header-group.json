@@ -58,7 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/NUVANA-3.png",
+        "logo": "shopify://shop_images/NUVANA.png",
         "logo_max_width": 220,
         "logo_mobile_max_width": 155,
         "menu": "main-menu",
@@ -72,7 +72,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#f7f3ee",
+        "transparent_header_text_color": "#e8e8e8",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
