@@ -39,7 +39,7 @@
           "settings": {
             "image": "shopify://shop_images/Sans_titre_1080_x_1080_px_6ff0b9af-4685-4bd1-bc7d-243200898d64.png",
             "mobile_image": "shopify://shop_images/Sans_titre_1080_x_1080_px_6ff0b9af-4685-4bd1-bc7d-243200898d64.png",
-            "content_max_width": 780,
+            "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tell your story",
