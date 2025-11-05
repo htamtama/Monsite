@@ -9,6 +9,7 @@
  */
 {
   "current": {
+    "page_width": 1300,
     "section_vertical_spacing": "medium",
     "section_boxed_horizontal_spacing": "medium",
     "button_border_radius": 60,
@@ -40,7 +41,7 @@
     "heading_text_transform": "normal",
     "heading_letter_spacing": -2,
     "text_font": "poppins_n4",
-    "heading_apparition": "split_fade",
+    "heading_apparition": "none",
     "color_swatch_style": "round",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
