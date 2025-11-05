@@ -55,10 +55,11 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/NUVANA.png",
+        "logo": "shopify://shop_images/NUVANA-4.png",
         "logo_max_width": 220,
         "logo_mobile_max_width": 155,
         "menu": "main-menu",
@@ -72,8 +73,8 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#e8e8e8",
-        "reduce_padding": true,
+        "transparent_header_text_color": "#1b1e2f",
+        "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
       }
