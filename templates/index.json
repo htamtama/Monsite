@@ -29,17 +29,17 @@
           "settings": {
             "image": "shopify://shop_images/IMG_0319.jpg",
             "mobile_image": "shopify://shop_images/IMG_0319.jpg",
-            "content_max_width": 640,
+            "content_max_width": 400,
             "mobile_text_position": "place-self-center-start text-start",
-            "desktop_text_position": "sm:place-self-start sm:text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "",
-            "title": "Twist’nClean — des pattes propres en 5 secondes.",
-            "heading_tag": "h5",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#e8e8e8",
+            "title": "Twist’nClean — des pattes propres en quelques secondes.",
+            "heading_tag": "h6",
+            "button_text": "Découvrir le produit",
+            "button_link": "shopify://products/twist-n-clean-nettoyeur-automatique-de-pattes-pour-chiens-chats",
+            "text_color": "#f2f2f2",
             "button_background": "#e8e8e8",
-            "button_text_color": "#e8e8e8",
+            "button_text_color": "#1b1e2f",
             "overlay_color": "#1b1e2f",
             "overlay_opacity": 20,
             "background": "",
@@ -49,19 +49,19 @@
         "image_f7YzBW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre_1080_x_1080_px_6ff0b9af-4685-4bd1-bc7d-243200898d64.png",
-            "mobile_image": "shopify://shop_images/Sans_titre_1080_x_1080_px_6ff0b9af-4685-4bd1-bc7d-243200898d64.png",
+            "image": "shopify://shop_images/Sans_titre_1800_x_600_px_Site_Web.png",
+            "mobile_image": "shopify://shop_images/Sans_titre_1800_x_600_px_Site_Web.png",
             "content_max_width": 1200,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h4",
-            "button_text": "",
-            "button_link": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "Un système rotatif intelligent qui nettoie chaque patte en douceur.",
+            "title": "Technologie douce & efficace",
+            "heading_tag": "h6",
+            "button_text": "Voir comment ça marche",
+            "button_link": "shopify://products/twist-n-clean-nettoyeur-automatique-de-pattes-pour-chiens-chats",
             "text_color": "#1b1e2f",
-            "button_background": "#e8e8e8",
-            "button_text_color": "#1b1e2f",
+            "button_background": "#1b1e2f",
+            "button_text_color": "#e8e8e8",
             "overlay_color": "#1b1e2f",
             "overlay_opacity": 3,
             "background": "",
@@ -72,6 +72,9 @@
       "block_order": [
         "slide-1",
         "image_f7YzBW"
+      ],
+      "custom_css": [
+        "/* Réduit la taille du texte et des boutons sur mobile */@media only screen and (max-width: 600px) {.slideshow__heading, .image-banner__heading {font-size: 15px !important; line-height: 1 !important; } .slideshow__subheading, .image-banner__text {font-size: 10px !important; } .button, .slideshow__button {font-size: 5px !important; padding: 5px 10px !important; }}"
       ],
       "settings": {
         "full_width": true,
@@ -93,7 +96,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Twist'n'Clean?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "#1b1e2f",
             "gradient": ""
           }
