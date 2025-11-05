@@ -47,6 +47,7 @@
     "product_info_alignment": "start",
     "cart_type": "popover",
     "cart_icon": "shopping_basket",
+    "favicon": "shopify://shop_images/2_a28fd34a-1688-4667-88fa-50ab6275cbb2.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
