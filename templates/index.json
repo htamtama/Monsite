@@ -87,30 +87,103 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "rich_text_AUReeB": {
-      "type": "rich-text",
+    "multi_column_EW7PeK": {
+      "type": "multi-column",
       "blocks": {
-        "heading_PLDU7w": {
-          "type": "heading",
+        "item_pMAKR8": {
+          "type": "item",
           "settings": {
-            "text": "Pourquoi choisir Twist'n'Clean?",
-            "heading_tag": "h3",
-            "text_color": "#1b1e2f",
-            "gradient": ""
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pxTAVX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_a28fd34a-1688-4667-88fa-50ab6275cbb2.png",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_t7MmhN": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yFjPEM": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XNUCTw": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FJW9AL": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "heading_PLDU7w"
+        "item_pMAKR8",
+        "item_pxTAVX",
+        "item_t7MmhN",
+        "item_yFjPEM",
+        "item_XNUCTw",
+        "item_FJW9AL"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#e8e8e8",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Pourquoi choisir Twist'n'Clean?",
+        "content": "",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#1b1e2f"
+        "text_color": ""
       }
     },
     "featured_product_BJPwbG": {
@@ -525,60 +598,14 @@
         "button_text_color": "#e8e8e8"
       }
     },
-    "multi_column_EW7PeK": {
-      "type": "multi-column",
-      "blocks": {
-        "item_pMAKR8": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_pxTAVX": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_mUxrGy": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_pMAKR8",
-        "item_pxTAVX",
-        "item_mUxrGy"
-      ],
-      "name": "Multi-column",
+    "custom_liquid_LwxNfw": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.features {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  gap: 40px;\n  text-align: left;\n  color: #1B1E2F;\n  background-color: #E8E8E8;\n  padding: 40px 20px;\n  border-radius: 12px;\n}\n.feature {\n  flex: 1 1 250px;\n  max-width: 300px;\n}\n.feature h3 {\n  font-size: 18px;\n  margin-bottom: 8px;\n  font-weight: 600;\n}\n.feature p {\n  font-size: 14px;\n  line-height: 1.5;\n}\n.feature img {\n  display: block;\n  margin: 0 auto 10px auto;\n  width: 40px;\n  height: 40px;\n}\n</style>\n\n<div class=\"features\">\n  <div class=\"feature\">\n    <h3>🐾 Transformez la corvée en câlin</h3>\n    <p>Fini le stress du lavage. Les picots en silicone massent les pattes sans les agresser — un vrai moment de bien-être.</p>\n  </div>\n  <div class=\"feature\">\n    <h3>🩺 Un bouclier pour sa santé</h3>\n    <p>Plus qu’un nettoyage, c’est une protection. Il élimine les germes et irritants qui causent douleurs et infections.</p>\n  </div>\n  <div class=\"feature\">\n    <h3>⚡ 30 secondes pour tout changer</h3>\n    <p>Appuyez sur le bouton, et en 2 minutes, les 4 pattes sont impeccables — un vrai gain de temps.</p>\n  </div>\n  <div class=\"feature\">\n    <h3>🏠 Retrouvez le plaisir d’une maison saine</h3>\n    <p>Rentrer sans traces sur le carrelage ou le canapé : la promesse d’un foyer propre et serein.</p>\n  </div>\n  <div class=\"feature\">\n    <h3>🧼 Un nettoyage expert, sans vous fatiguer</h3>\n    <p>Sa rotation 360° à double vitesse fait le travail à votre place : des pattes impeccables sans effort.</p>\n  </div>\n  <div class=\"feature\">\n    <h3>🔋 La liberté du sans-fil</h3>\n    <p>Chargez-le 2 h, utilisez-le 10 jours. Compact et pratique, il vous suit partout.</p>\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -588,13 +615,13 @@
   "order": [
     "rich_text_3jGrtN",
     "slideshow",
-    "rich_text_AUReeB",
+    "multi_column_EW7PeK",
     "featured_product_BJPwbG",
     "before-after-image",
     "multi_column_JwYRJH",
     "multi_column_B6M6t8",
     "faq_6bRHhp",
     "contact_E39Hri",
-    "multi_column_EW7PeK"
+    "custom_liquid_LwxNfw"
   ]
 }
