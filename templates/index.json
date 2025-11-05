@@ -38,8 +38,8 @@
             "button_text": "Découvrir le produit",
             "button_link": "shopify://products/twist-n-clean-nettoyeur-automatique-de-pattes-pour-chiens-chats",
             "text_color": "#f2f2f2",
-            "button_background": "#e8e8e8",
-            "button_text_color": "#1b1e2f",
+            "button_background": "#f2f2f2",
+            "button_text_color": "#f2f2f2",
             "overlay_color": "#1b1e2f",
             "overlay_opacity": 20,
             "background": "",
@@ -49,19 +49,19 @@
         "image_f7YzBW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre_1800_x_600_px_Site_Web.png",
-            "mobile_image": "shopify://shop_images/Sans_titre_1800_x_600_px_Site_Web.png",
+            "image": "shopify://shop_images/Sans_titre_1080_x_1080_px_6ff0b9af-4685-4bd1-bc7d-243200898d64.png",
+            "mobile_image": "shopify://shop_images/Sans_titre_1080_x_1080_px_6ff0b9af-4685-4bd1-bc7d-243200898d64.png",
             "content_max_width": 1200,
-            "mobile_text_position": "place-self-center-start text-start",
+            "mobile_text_position": "place-self-center-end text-end",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "Un système rotatif intelligent qui nettoie chaque patte en douceur.",
+            "subheading": "",
             "title": "Technologie douce & efficace",
             "heading_tag": "h6",
             "button_text": "Voir comment ça marche",
             "button_link": "shopify://products/twist-n-clean-nettoyeur-automatique-de-pattes-pour-chiens-chats",
             "text_color": "#1b1e2f",
             "button_background": "#1b1e2f",
-            "button_text_color": "#e8e8e8",
+            "button_text_color": "#1b1e2f",
             "overlay_color": "#1b1e2f",
             "overlay_opacity": 3,
             "background": "",
@@ -73,16 +73,14 @@
         "slide-1",
         "image_f7YzBW"
       ],
-      "custom_css": [
-        "/* Réduit la taille du texte et des boutons sur mobile */@media only screen and (max-width: 600px) {.slideshow__heading, .image-banner__heading {font-size: 15px !important; line-height: 1 !important; } .slideshow__subheading, .image-banner__text {font-size: 10px !important; } .button, .slideshow__button {font-size: 5px !important; padding: 5px 10px !important; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
         "show_initial_transition": false,
         "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
+        "controls_type": "none",
+        "transition_type": "fade",
         "autoplay": true,
         "cycle_speed": 6,
         "background": "#f2f2f2",
@@ -113,22 +111,6 @@
         "background": "#e8e8e8",
         "background_gradient": "",
         "text_color": "#1b1e2f"
-      }
-    },
-    "image_with_text_overlay_TGw7kc": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/2_76c4cff5-fd4b-4e77-b61a-ef49fefa8d71.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "featured_product_BJPwbG": {
@@ -466,14 +448,49 @@
         "button_background": "#1b1e2f",
         "button_text_color": "#e8e8e8"
       }
+    },
+    "blog_posts_3fW4Vn": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_NtnTaU": {
+          "type": "blog",
+          "settings": {
+            "blog": "",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_NtnTaU"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "rich_text_3jGrtN",
     "slideshow",
     "rich_text_AUReeB",
-    "image_with_text_overlay_TGw7kc",
     "featured_product_BJPwbG",
+    "blog_posts_3fW4Vn",
     "before-after-image",
     "multi_column_B6M6t8",
     "faq_6bRHhp",
