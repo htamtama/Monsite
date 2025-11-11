@@ -627,6 +627,105 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "featured_product_qgC3dn": {
+      "type": "featured-product",
+      "blocks": {
+        "title_FLbhX7": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h5"
+          }
+        },
+        "badges_eWUt4d": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_NtAiJx": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_MRWVi4": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_cHwpTc": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_bhmJp4": {
+          "type": "description",
+          "settings": {
+            "icon": "picto-box",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_JDYbmf": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "none",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_9q3eaT": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_mVEEFi": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#1b1e2f",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_3FfL9r": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_FLbhX7",
+        "badges_eWUt4d",
+        "price_NtAiJx",
+        "rating_MRWVi4",
+        "separator_cHwpTc",
+        "description_bhmJp4",
+        "variant_picker_JDYbmf",
+        "quantity_selector_9q3eaT",
+        "buy_buttons_mVEEFi",
+        "pickup_availability_3FfL9r"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "🐾one-click-clean-brush-brosse-autonettoyante-premium-pour-chiens-chats",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -639,6 +738,7 @@
     "multi_column_B6M6t8",
     "faq_6bRHhp",
     "contact_E39Hri",
-    "collection_list_VyPYRt"
+    "collection_list_VyPYRt",
+    "featured_product_qgC3dn"
   ]
 }
