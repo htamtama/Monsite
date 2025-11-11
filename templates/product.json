@@ -149,10 +149,70 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "accordion_content_MbCHJm": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_i8Kmkm": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 1",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_BzxwFN": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_JU68qD": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_i8Kmkm",
+        "item_BzxwFN",
+        "item_JU68qD"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "🐾 Détails & Informations",
+        "content": "<p>La <strong>One-Click Clean Brush</strong> est la brosse indispensable pour garder le pelage de votre animal propre, doux et sans nœuds. Grâce à son <strong>système autonettoyant innovant</strong>, un simple clic suffit pour retirer tous les poils accumulés.</p><p>Fini la galère du nettoyage manuel !</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#1b1e2f",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#1b1e2f",
+        "accordion_background": "",
+        "accordion_text_color": "#1b1e2f"
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "accordion_content_MbCHJm"
   ]
 }
