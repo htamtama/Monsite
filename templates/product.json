@@ -77,6 +77,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "text_xWTF6N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🐶 Offrez à votre compagnon un nettoyage doux et sans stress — plus de traces de boue à la maison !</p>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -101,6 +107,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "text_xWTF6N",
         "buy_buttons"
       ],
       "settings": {
