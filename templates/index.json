@@ -87,6 +87,32 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "featured_collection_8Gqfhz": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "frontpage",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "🐾 Nos indispensables pour un compagnon heureux",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir toute la collection",
+        "background": "#e8e8e8",
+        "background_gradient": "",
+        "text_color": "#1b1e2f",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "custom_liquid_dM9YxU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -512,32 +538,6 @@
         "button_text_color": "#e8e8e8"
       }
     },
-    "featured_collection_8Gqfhz": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "frontpage",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "🐾 Nos indispensables pour un compagnon heureux",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir toute la collection",
-        "background": "#e8e8e8",
-        "background_gradient": "",
-        "text_color": "#1b1e2f",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "rich_text_ayEiMV": {
       "type": "rich-text",
       "blocks": {
@@ -565,6 +565,7 @@
   "order": [
     "rich_text_3jGrtN",
     "slideshow",
+    "featured_collection_8Gqfhz",
     "custom_liquid_dM9YxU",
     "featured_product_BJPwbG",
     "before-after-image",
@@ -572,7 +573,6 @@
     "multi_column_B6M6t8",
     "faq_6bRHhp",
     "contact_E39Hri",
-    "featured_collection_8Gqfhz",
     "rich_text_ayEiMV"
   ]
 }
