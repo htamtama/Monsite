@@ -87,6 +87,106 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "collection_list_VyPYRt": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_RkkF8P": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_HH7Axb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Ranqq3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_QyraWJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_DQnmGj": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_RkkF8P",
+        "collection_HH7Axb",
+        "collection_Ranqq3",
+        "collection_QyraWJ",
+        "collection_DQnmGj"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "2",
+        "collections_per_row": 5,
+        "show_progress_bar": true,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "#e8e8e8",
+        "background_gradient": "",
+        "text_color": "#1b1e2f",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "custom_liquid_dM9YxU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -512,122 +612,6 @@
         "button_text_color": "#e8e8e8"
       }
     },
-    "collection_list_VyPYRt": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_3JpPx6": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/H199313b4b3574a3b8bd3cb0167284eadk.png-2.avif",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_RkkF8P": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_HH7Axb": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_Ranqq3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_QyraWJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_DQnmGj": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_3JpPx6",
-        "collection_RkkF8P",
-        "collection_HH7Axb",
-        "collection_Ranqq3",
-        "collection_QyraWJ",
-        "collection_DQnmGj"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "2",
-        "collections_per_row": 5,
-        "show_progress_bar": true,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "#e8e8e8",
-        "background_gradient": "",
-        "text_color": "#1b1e2f",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured_product_qgC3dn": {
       "type": "featured-product",
       "blocks": {
@@ -731,6 +715,7 @@
   "order": [
     "rich_text_3jGrtN",
     "slideshow",
+    "collection_list_VyPYRt",
     "custom_liquid_dM9YxU",
     "featured_product_BJPwbG",
     "before-after-image",
@@ -738,7 +723,6 @@
     "multi_column_B6M6t8",
     "faq_6bRHhp",
     "contact_E39Hri",
-    "collection_list_VyPYRt",
     "featured_product_qgC3dn"
   ]
 }
