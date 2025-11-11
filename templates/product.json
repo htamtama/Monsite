@@ -158,8 +158,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Pourquoi vous allez l’adorer",
+            "content": "<p>🐾 Nettoyage en un clic<br/>🤍 Dents arrondies en acier doux<br/>💧 Poignée ergonomique et antidérapante<br/>✨ ABS lavable et durable<br/>🐶 Convient à tous les animaux</p>",
             "page": ""
           }
         },
@@ -168,8 +168,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Caractéristiques techniques",
+            "content": "<p>•<strong>Matériaux</strong>: acier inoxydable + ABS haute qualité<br/>•<strong>Fonction</strong>: bouton de nettoyage automatique<br/>•<strong>Dimensions</strong>: 19 × 8 cm<br/>•<strong>Poids</strong>: 90 g<br/>•<strong>Couleurs disponibles</strong>: crème / vert menthe</p>",
             "page": ""
           }
         },
