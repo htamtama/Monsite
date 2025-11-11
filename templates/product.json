@@ -45,7 +45,7 @@
         "text_xWTF6N": {
           "type": "text",
           "settings": {
-            "text": "<p>🐶 Offrez à votre compagnon un nettoyage doux et sans stress — plus de traces de boue à la maison !</p>"
+            "text": "<p>En un clic, éliminez les poils tout en offrant un brossage doux, sûr et agréable.<br/>Solide, hygiénique et pensée pour tous les chiens et chats.</p>"
           }
         },
         "price": {
@@ -163,6 +163,16 @@
             "page": ""
           }
         },
+        "item_JU68qD": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": " Les bienfaits d’un brossage régulier",
+            "content": "<p>✨ Évite les nœuds et les poils emmêlés.<br/>✨ Réduit la perte de poils dans la maison.<br/>✨ Stimule la circulation sanguine et masse la peau.<br/>✨ Rend le pelage plus brillant, doux et sain.<br/>✨ Améliore le confort et le bien-être de votre compagnon.</p>",
+            "page": ""
+          }
+        },
         "item_BzxwFN": {
           "type": "item",
           "settings": {
@@ -172,29 +182,19 @@
             "content": "<p>•<strong>Matériaux</strong>: acier inoxydable + ABS haute qualité<br/>•<strong>Fonction</strong>: bouton de nettoyage automatique<br/>•<strong>Dimensions</strong>: 19 × 8 cm<br/>•<strong>Poids</strong>: 90 g<br/>•<strong>Couleurs disponibles</strong>: crème / vert menthe</p>",
             "page": ""
           }
-        },
-        "item_JU68qD": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Promesse de marque / Confiance",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "item_i8Kmkm",
-        "item_BzxwFN",
-        "item_JU68qD"
+        "item_JU68qD",
+        "item_BzxwFN"
       ],
       "name": "Accordion content",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "🐾 Détails & Informations",
-        "content": "<p>La <strong>One-Click Clean Brush</strong> est la brosse indispensable pour garder le pelage de votre animal propre, doux et sans nœuds. Grâce à son <strong>système autonettoyant innovant</strong>, un simple clic suffit pour retirer tous les poils accumulés.</p><p>Fini la galère du nettoyage manuel !</p>",
+        "content": "<p>La One-Click Clean Brush est la brosse indispensable pour garder le pelage de votre animal propre, doux et sans nœuds. Grâce à son système autonettoyant innovant, un simple clic suffit pour retirer tous les poils accumulés.</p><p>Fini la galère du nettoyage manuel !</p>",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
