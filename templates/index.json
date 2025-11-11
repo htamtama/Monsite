@@ -118,7 +118,15 @@
         "liquid_4BpRyf": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Caractéristiques du produit</title>\n\n  <!-- Import de la police Poppins -->\n  <link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap\" rel=\"stylesheet\">\n\n  <style>\n    :root {\n      --text-color: #1B1E2F;\n      --hover-bg-color: #f9f9f9;\n      --highlight-color: #000000;\n      --transition-duration: 0.3s;\n      --font-family: 'Poppins', sans-serif;\n    }\n\n    body.bdy-a123 {\n      font-family: var(--font-family);\n      display: flex;\n      justify-content: center;\n      align-items: flex-start;\n      height: 100vh;\n      margin: 0;\n      background: #ffffff;\n      padding: 20px;\n    }\n\n    .container-x987 {\n      width: 100%;\n      max-width: 400px;\n      display: flex;\n      flex-direction: column;\n      gap: 12px;\n    }\n\n    .item-z456 {\n      background: var(--hover-bg-color);\n      border-radius: 10px;\n      padding: 10px 14px;\n      display: flex;\n      align-items: center;\n      gap: 10px;\n      transition: all var(--transition-duration) ease;\n      box-shadow: 0 1px 3px rgba(0,0,0,0.05);\n    }\n\n    .item-z456:hover {\n      transform: translateX(8px);\n      background-color: #f0f0f0;\n      box-shadow: 0 4px 12px rgba(27,30,47,0.1);\n    }\n\n    .emoji {\n      font-size: 18px;\n    }\n\n    .text-v654 {\n      font-size: 15px;\n      color: var(--text-color);\n      font-weight: 500;\n      line-height: 1.4;\n    }\n\n    .text-v654 strong {\n      font-weight: 600;\n    }\n\n    @media (max-width: 600px) {\n      .text-v654 {\n        font-size: 13px;\n      }\n    }\n  </style>\n</head>\n<body class=\"bdy-a123\">\n  <div class=\"container-x987\">\n    <div class=\"item-z456\">\n      <span class=\"emoji\">🌀</span>\n      <div class=\"text-v654\"><strong>Nettoyage automatique :</strong> Rotatif, doux et sans effort</div>\n    </div>\n\n    <div class=\"item-z456\">\n      <span class=\"emoji\">🔋</span>\n      <div class=\"text-v654\"><strong>Recharge USB :</strong> Utilisable partout, à la maison ou en voyage</div>\n    </div>\n\n    <div class=\"item-z456\">\n      <span class=\"emoji\">🐾</span>\n      <div class=\"text-v654\"><strong>Maison toujours propre :</strong> Fini les traces de boue et de sable</div>\n    </div>\n  </div>\n</body>\n</html>"
+            "liquid": ""
+          }
+        },
+        "description_YXTLD7": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
           }
         },
         "liquid_xLTaxg": {
@@ -152,14 +160,6 @@
         "separator_hUMYkG": {
           "type": "separator",
           "settings": {}
-        },
-        "description_YXTLD7": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker_Hh96GN": {
           "type": "variant_picker",
@@ -204,13 +204,13 @@
         "title_n7XcXr",
         "liquid_cKnmfV",
         "liquid_4BpRyf",
+        "description_YXTLD7",
         "liquid_xLTaxg",
         "text_FxW9db",
         "price_xBVxek",
         "badges_jg6NtP",
         "rating_GQpJLG",
         "separator_hUMYkG",
-        "description_YXTLD7",
         "variant_picker_Hh96GN",
         "quantity_selector_8fhTC3",
         "buy_buttons_EmQL7d",
