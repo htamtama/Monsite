@@ -623,8 +623,8 @@
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "🐾 Nos indispensables pour un compagnon heureux",
+        "subheading": "🐾 Nos indispensables pour un compagnon heureux",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "Voir toute la collection",
@@ -635,6 +635,29 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "rich_text_ayEiMV": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_FgjXNF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>🐾 <em>Chez NUVANA Dog & Cat, chaque produit est pensé pour le confort, la propreté et le bien-être de votre compagnon.Découvrez notre sélection d’accessoires durables et faciles à utiliser.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_FgjXNF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#e8e8e8",
+        "background_gradient": "",
+        "text_color": "#1b1e2f"
       }
     }
   },
@@ -649,6 +672,7 @@
     "faq_6bRHhp",
     "contact_E39Hri",
     "featured_product_qgC3dn",
-    "featured_collection_8Gqfhz"
+    "featured_collection_8Gqfhz",
+    "rich_text_ayEiMV"
   ]
 }
