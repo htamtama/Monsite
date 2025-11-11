@@ -39,7 +39,7 @@
         "liquid_jFLUUh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.red-box {\n  background-color: #F26B6B; /* Rouge rosé premium */\n  color: #fff;\n  padding: 8px 12px;\n  text-align: center;\n  font-size: 10px;\n  font-weight: 500;\n  border-radius: 5px;\n  margin-bottom: 10px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n}\n\n/* Effet de pulsation sur le feu 🔥 */\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.2); opacity: 0.8; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n.red-box .emoji {\n  animation: pulse 1s infinite;\n  display: inline-block;\n}\n</style>\n\n<div class=\"red-box\">\n  <span class=\"emoji\">🔥</span> Plus que quelques exemplaires disponibles — ne ratez pas votre Twist’n’Clean préféré !\n</div>"
+            "liquid": "<style>\n.red-box {\n  background-color: #F26B6B; /* Rouge rosé premium */\n  color: #fff;\n  padding: 8px 12px;\n  text-align: center;\n  font-size: 10px;\n  font-weight: 500;\n  border-radius: 5px;\n  margin-bottom: 10px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n}\n\n/* Effet de pulsation sur le feu 🔥 */\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.2); opacity: 0.8; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n.red-box .emoji {\n  animation: pulse 1s infinite;\n  display: inline-block;\n}\n</style>\n\n<div class=\"red-box\">\n  <span class=\"emoji\">🔥</span> Plus que quelques exemplaires en stock — ne ratez pas votre One-Click Clean Brush préférée !\n</div>"
           }
         },
         "text_xWTF6N": {
