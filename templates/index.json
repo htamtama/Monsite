@@ -544,7 +544,7 @@
         "description_bhmJp4": {
           "type": "description",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-coupon",
             "icon_width": 20,
             "collapse_content": false
           }
