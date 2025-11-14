@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_ipY6Ta": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -120,6 +126,7 @@
         }
       },
       "block_order": [
+        "text_ipY6Ta",
         "title",
         "liquid_jH7nnK",
         "badges",
