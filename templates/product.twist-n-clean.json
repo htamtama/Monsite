@@ -262,9 +262,10 @@
         "item_6FVdKj": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Sans_titre_1080_x_1080_px_-3_74f16b16-ab05-40ef-b707-e20ba071ba36.png",
+            "column_size": "4",
             "title": "Column title",
-            "heading_tag": "h4",
+            "heading_tag": "h6",
             "content": "<p>Remplissez le réservoir et ajoutez quelques gouttes de shampoing pour un nettoyage encore plus efficace.</p>",
             "link_url": "",
             "link_text": "",
