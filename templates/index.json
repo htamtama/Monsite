@@ -311,99 +311,6 @@
         "text_color": "#1b1e2f"
       }
     },
-    "faq_6bRHhp": {
-      "type": "faq",
-      "blocks": {
-        "item_TNxgEG": {
-          "type": "item",
-          "settings": {
-            "title": "Comment fonctionne Twist’n’Clean ?",
-            "content": "<p>Twist’n’Clean™ utilise une rotation douce à 360° pour éliminer boue, poussière et saletés entre les coussinets.</p><p>Remplissez simplement le réservoir d’eau, insérez la patte, appuyez sur le bouton et… c’est propre en quelques secondes ! 🐾✨</p>"
-          }
-        },
-        "item_TLnBHW": {
-          "type": "item",
-          "settings": {
-            "title": "L’appareil est-il rechargeable ?",
-            "content": "<p>Oui ! 🔋</p><p>Twist’n’Clean™ se recharge facilement grâce à son <strong>câble USB inclus</strong>.</p><p>Une charge complète offre jusqu’à <strong>15 nettoyages</strong> — parfait après les balades du matin ou du soir.</p>"
-          }
-        },
-        "item_7fTXDP": {
-          "type": "item",
-          "settings": {
-            "title": "Est-il adapté à tous les chiens et chats ?",
-            "content": "<p>Absolument ❤️</p><p>Twist’n’Clean™ s’adapte aux <strong>petits comme aux grands animaux</strong>, chiens et chats compris.</p><p>Il nettoie sans douleur grâce à ses <strong>brosses en silicone ultra-douces</strong>.</p>"
-          }
-        },
-        "item_nW6bKV": {
-          "type": "item",
-          "settings": {
-            "title": "Faut-il ajouter un produit nettoyant ?",
-            "content": "<p>Ce n’est pas obligatoire.</p><p>De l’eau seule suffit pour un nettoyage efficace 💧</p><p>Mais vous pouvez ajouter une <strong>goutte de shampoing doux</strong> pour un effet fraîcheur et un parfum agréable.</p>"
-          }
-        },
-        "item_xPh8DE": {
-          "type": "item",
-          "settings": {
-            "title": "Comment le nettoyer après usage ?",
-            "content": "<p>Facile !</p><p>Le couvercle et la brosse se <strong>détachent en un clic</strong> et se rincent à l’eau claire.</p><p>Tout est <strong>lavable et réutilisable</strong>, pour une hygiène parfaite à chaque utilisation. 🧼</p>"
-          }
-        },
-        "item_JarpzM": {
-          "type": "item",
-          "settings": {
-            "title": "Que contient le coffret Twist’n’Clean ?",
-            "content": "<p>✅ 1 nettoyeur automatique Twist’n’Clean™</p><p>🔌 1 câble USB de recharge</p><p>🧼 1 brosse en silicone douce amovible</p><p>📖 1 guide d’utilisation </p>"
-          }
-        },
-        "item_DxGMWU": {
-          "type": "item",
-          "settings": {
-            "title": "Pourquoi choisir Twist’n’Clean ?",
-            "content": "<p>Parce qu’il rend votre quotidien <strong>plus propre, plus pratique et plus serein</strong>.</p><p>Fini les traces de pattes partout à la maison — dites <strong>adieu à la boue et bonjour à la propreté !</strong> 🏡✨</p>"
-          }
-        },
-        "item_yHDmtY": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Nos commandes sont préparées et expédiées sous <strong>24 à 48h ouvrées</strong>.</p><p>Le délai moyen de livraison est de <strong>5 à 10 jours ouvrés</strong> selon votre localisation.</p><p>Vous recevrez un <strong>numéro de suivi</strong> dès que votre colis quitte notre entrepôt 🕊️📦</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_TNxgEG",
-        "item_TLnBHW",
-        "item_7fTXDP",
-        "item_nW6bKV",
-        "item_xPh8DE",
-        "item_JarpzM",
-        "item_DxGMWU",
-        "item_yHDmtY"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#e8e8e8",
-        "background_gradient": "",
-        "text_color": "#1b1e2f",
-        "heading_color": "#1b1e2f",
-        "heading_gradient": "",
-        "button_background": "#e8e8e8",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "contact_E39Hri": {
       "type": "contact",
       "name": "Contact form",
@@ -455,7 +362,6 @@
     "featured_collection_8Gqfhz",
     "featured_product_BJPwbG",
     "multi_column_B6M6t8",
-    "faq_6bRHhp",
     "contact_E39Hri",
     "rich_text_ayEiMV"
   ]
