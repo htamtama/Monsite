@@ -94,30 +94,16 @@
             "payment_button_text_color": ""
           }
         },
-        "collapsible_text_8QYbgJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_EHcKXb": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
         "liquid_Kr63BB": {
           "type": "liquid",
           "settings": {
             "liquid": ""
+          }
+        },
+        "liquid_HKLhzF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.brush-accordion {\n  border-radius: 16px;\n  background: #F5F7FA;\n  padding: 20px;\n  border: 1px solid #E1E4EA;\n  font-family: inherit;\n  margin: 28px 0;\n}\n\n.brush-accordion-title {\n  font-weight: 700;\n  font-size: 16px;\n  color: #1B1E2F;\n  margin-bottom: 10px;\n}\n\n.brush-item {\n  border-bottom: 1px solid #E1E4EA;\n  padding: 10px 0;\n}\n\n.brush-item:last-of-type {\n  border-bottom: none;\n}\n\n.brush-item summary {\n  list-style: none;\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  justify-content: space-between;\n  font-weight: 600;\n  color: #1B1E2F;\n}\n\n.brush-item summary::-webkit-details-marker {\n  display: none;\n}\n\n.brush-label {\n  display: flex;\n  align-items: center;\n  gap:"
           }
         }
       },
@@ -135,9 +121,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "collapsible_text_8QYbgJ",
-        "collapsible_text_EHcKXb",
-        "liquid_Kr63BB"
+        "liquid_Kr63BB",
+        "liquid_HKLhzF"
       ],
       "settings": {
         "full_width": true,
