@@ -9,22 +9,15 @@
  */
 {
   "sections": {
-    "custom_liquid_RBtNTg": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n.nu-grid{\n  font-family:'Poppins',sans-serif;\n  color:#1B1E2F;\n  background:linear-gradient(180deg,#F5F6F7,#E9EBEE);\n  border-radius:16px;\n  padding:40px 20px 30px; /* réduit le padding bas */\n  text-align:center;\n}\n\n/* Titre */\n.nu-grid h2{\n  font-size:28px;font-weight:700;margin:0 0 28px;display:inline-block;position:relative;\n}\n.nu-grid h2::after{\n  content:\"\";display:block;width:72px;height:3px;background:#9AA3B2;border-radius:3px;margin:10px auto 0;\n}\n\n/* GRILLE */\n.nu-wrap{\n  display:grid;\n  grid-template-columns:1fr 420px 1fr;\n  grid-template-rows:auto auto auto;\n  grid-template-areas:\n    \"l1 img r1\"\n    \"l2 img r2\"\n    \"l3 img r3\";\n  gap:20px;\n  align-items:center;\n}\n\n/* CARTES */\n.nu-card{\n  background:#fff;\n  border-radius:12px;\n  padding:16px 14px;\n  box-shadow:0 6px 16px rgba(0,0,0,.06);\n  text-align:left;\n}\n.nu-card h3{font-size:14px;font-weight:700;margin:0 0 6px;}\n.nu-card p{font-size:14px;line-height:1.5;margin:0;}\n\n/* Image centrale compacte */\n.nu-img{\n  grid-area:img;\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  position:relative;\n}\n.nu-img::before{\n  content:\"\";position:absolute;width:360px;height:360px;border-radius:50%;\n  background:radial-gradient(closest-side,#fff 0%,rgba(255,255,255,.5) 45%,rgba(255,255,255,0) 70%);\n  filter:blur(5px);\n}\n.nu-img img{\n  position:relative;z-index:1;\n  width:360px;max-width:90%;\n  filter:drop-shadow(0 12px 22px rgba(0,0,0,.12));\n  transition:transform .35s ease;\n}\n.nu-img img:hover{transform:translateY(-8px);}\n\n/* Mobile */\n@media (max-width:749px){\n  .nu-wrap{\n    grid-template-columns:1fr;\n    grid-template-areas:\n      \"img\"\n      \"l1\" \"r1\"\n      \"l2\" \"r2\"\n      \"l3\" \"r3\";\n  }\n  .nu-img::before{width:280px;height:280px;}\n  .nu-img img{width:280px;}\n  .nu-grid{padding:30px 16px 20px;}\n}\n</style>\n\n<div class=\"nu-grid\">\n  <h2>Pourquoi choisir Twist’n’Clean&nbsp;?</h2>\n\n  <div class=\"nu-wrap\">\n    <div class=\"nu-card l1\">\n      <h3>🐾 Transformez la corvée en câlin</h3>\n      <p>Les picots en silicone massent les pattes en douceur pour un vrai moment de bien-être.</p>\n    </div>\n    <div class=\"nu-card l2\">\n      <h3>🩺 Un bouclier pour sa santé</h3>\n      <p>Élimine germes et irritants de la rue — protège les coussinets après chaque balade.</p>\n    </div>\n    <div class=\"nu-card l3\">\n      <h3>🧼 Nettoyage expert, sans effort</h3>\n      <p>Rotation 360° à double vitesse : des pattes impeccables, sans fatigue.</p>\n    </div>\n\n    <div class=\"nu-img\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0982/0464/7749/files/2_a28fd34a-1688-4667-88fa-50ab6275cbb2.png?v=1762195722\" alt=\"Twist’n’Clean — nettoyeur de pattes\">\n    </div>\n\n    <div class=\"nu-card r1\">\n      <h3>⚡ 30 secondes pour tout changer</h3>\n      <p>Un bouton, 2 minutes et c’est propre — vrai gain de temps au quotidien.</p>\n    </div>\n    <div class=\"nu-card r2\">\n      <h3>🏠 Une maison toujours propre</h3>\n      <p>Plus de traces sur le sol ni sur le canapé : sérénité retrouvée après chaque sortie.</p>\n    </div>\n    <div class=\"nu-card r3\">\n      <h3>🔋 Liberté du sans-fil</h3>\n      <p>Chargez 2 h, utilisez jusqu’à 10 jours — compact, il vous suit partout.</p>\n    </div>\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#1b1e2f"
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_ipY6Ta": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -58,7 +51,7 @@
         "text_xWTF6N": {
           "type": "text",
           "settings": {
-            "text": "<p>🐶 Offrez à votre compagnon un nettoyage doux et sans stress — plus de traces de boue à la maison !</p>"
+            "text": "<p>En un clic, éliminez les poils tout en offrant un brossage doux, sûr et agréable.<br/>Solide, hygiénique et pensée pour tous les chiens et chats.</p>"
           }
         },
         "price": {
@@ -107,14 +100,6 @@
             "payment_button_text_color": ""
           }
         },
-        "image_iWCAcg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_1800_x_1000_px_1800_x_600_px_1600_x_500_px_-3.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "collapsible_text_8QYbgJ": {
           "type": "collapsible_text",
           "settings": {
@@ -141,6 +126,7 @@
         }
       },
       "block_order": [
+        "text_ipY6Ta",
         "title",
         "liquid_jH7nnK",
         "badges",
@@ -154,7 +140,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "image_iWCAcg",
         "collapsible_text_8QYbgJ",
         "separator_fiEwqQ",
         "collapsible_text_EHcKXb"
@@ -236,33 +221,6 @@
         "accordion_text_color": "#1b1e2f"
       }
     },
-    "before_after_image_PKtYPy": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Le résultat en un coup d'œil",
-        "content": "<p>En un seul geste, Twist’n’Clean™ élimine boue et saletés, laissant des pattes parfaitement propres et une maison impeccable. Facile, rapide et indispensable après chaque balade.</p>",
-        "before_image": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
-        "before_image_mobile": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
-        "after_image": "shopify://shop_images/IMG_0306.jpg",
-        "after_image_mobile": "shopify://shop_images/IMG_0306.jpg",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#e8e8e8",
-        "after_text_color": "#e8e8e8",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -284,13 +242,71 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "multi_column_Wid8iD": {
+      "type": "multi-column",
+      "blocks": {
+        "item_6FVdKj": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Remplissez le réservoir et ajoutez quelques gouttes de shampoing pour un nettoyage encore plus efficace.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ai8aYz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tqU4E6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_6FVdKj",
+        "item_Ai8aYz",
+        "item_tqU4E6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "custom_liquid_RBtNTg",
     "main",
     "accordion_content_MbCHJm",
-    "before_after_image_PKtYPy",
-    "related-products"
+    "related-products",
+    "multi_column_Wid8iD"
   ]
 }
