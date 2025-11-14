@@ -234,26 +234,31 @@
         "accordion_text_color": "#1b1e2f"
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "before_after_image_mLX9Ah": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
-        "content": "",
+        "title": "Le résultat en un coup d'œil",
+        "content": "<p>En un seul geste, Twist’n’Clean™ élimine boue et saletés, laissant des pattes parfaitement propres et une maison impeccable. Facile, rapide et indispensable après chaque balade.</p>",
+        "before_image": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
+        "before_image_mobile": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
+        "after_image": "shopify://shop_images/IMG_0306.jpg",
+        "after_image_mobile": "shopify://shop_images/IMG_0306.jpg",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "text_color": "#1b1e2f",
+        "before_text_color": "#e8e8e8",
+        "after_text_color": "#e8e8e8",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_Wid8iD": {
@@ -331,13 +336,36 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "custom_liquid_4cNcLn",
     "main",
     "accordion_content_MbCHJm",
-    "related-products",
-    "multi_column_Wid8iD"
+    "before_after_image_mLX9Ah",
+    "multi_column_Wid8iD",
+    "related-products"
   ]
 }
