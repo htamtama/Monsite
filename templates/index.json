@@ -113,19 +113,6 @@
         "product_card_text_color": ""
       }
     },
-    "custom_liquid_dM9YxU": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n.nu-grid{\n  font-family:'Poppins',sans-serif;\n  color:#1B1E2F;\n  background:linear-gradient(180deg,#F5F6F7,#E9EBEE);\n  border-radius:16px;\n  padding:40px 20px 30px; /* réduit le padding bas */\n  text-align:center;\n}\n\n/* Titre */\n.nu-grid h2{\n  font-size:28px;font-weight:700;margin:0 0 28px;display:inline-block;position:relative;\n}\n.nu-grid h2::after{\n  content:\"\";display:block;width:72px;height:3px;background:#9AA3B2;border-radius:3px;margin:10px auto 0;\n}\n\n/* GRILLE */\n.nu-wrap{\n  display:grid;\n  grid-template-columns:1fr 420px 1fr;\n  grid-template-rows:auto auto auto;\n  grid-template-areas:\n    \"l1 img r1\"\n    \"l2 img r2\"\n    \"l3 img r3\";\n  gap:20px;\n  align-items:center;\n}\n\n/* CARTES */\n.nu-card{\n  background:#fff;\n  border-radius:12px;\n  padding:16px 14px;\n  box-shadow:0 6px 16px rgba(0,0,0,.06);\n  text-align:left;\n}\n.nu-card h3{font-size:14px;font-weight:700;margin:0 0 6px;}\n.nu-card p{font-size:14px;line-height:1.5;margin:0;}\n\n/* Image centrale compacte */\n.nu-img{\n  grid-area:img;\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  position:relative;\n}\n.nu-img::before{\n  content:\"\";position:absolute;width:360px;height:360px;border-radius:50%;\n  background:radial-gradient(closest-side,#fff 0%,rgba(255,255,255,.5) 45%,rgba(255,255,255,0) 70%);\n  filter:blur(5px);\n}\n.nu-img img{\n  position:relative;z-index:1;\n  width:360px;max-width:90%;\n  filter:drop-shadow(0 12px 22px rgba(0,0,0,.12));\n  transition:transform .35s ease;\n}\n.nu-img img:hover{transform:translateY(-8px);}\n\n/* Mobile */\n@media (max-width:749px){\n  .nu-wrap{\n    grid-template-columns:1fr;\n    grid-template-areas:\n      \"img\"\n      \"l1\" \"r1\"\n      \"l2\" \"r2\"\n      \"l3\" \"r3\";\n  }\n  .nu-img::before{width:280px;height:280px;}\n  .nu-img img{width:280px;}\n  .nu-grid{padding:30px 16px 20px;}\n}\n</style>\n\n<div class=\"nu-grid\">\n  <h2>Pourquoi choisir Twist’n’Clean&nbsp;?</h2>\n\n  <div class=\"nu-wrap\">\n    <div class=\"nu-card l1\">\n      <h3>🐾 Transformez la corvée en câlin</h3>\n      <p>Les picots en silicone massent les pattes en douceur pour un vrai moment de bien-être.</p>\n    </div>\n    <div class=\"nu-card l2\">\n      <h3>🩺 Un bouclier pour sa santé</h3>\n      <p>Élimine germes et irritants de la rue — protège les coussinets après chaque balade.</p>\n    </div>\n    <div class=\"nu-card l3\">\n      <h3>🧼 Nettoyage expert, sans effort</h3>\n      <p>Rotation 360° à double vitesse : des pattes impeccables, sans fatigue.</p>\n    </div>\n\n    <div class=\"nu-img\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0982/0464/7749/files/2_a28fd34a-1688-4667-88fa-50ab6275cbb2.png?v=1762195722\" alt=\"Twist’n’Clean — nettoyeur de pattes\">\n    </div>\n\n    <div class=\"nu-card r1\">\n      <h3>⚡ 30 secondes pour tout changer</h3>\n      <p>Un bouton, 2 minutes et c’est propre — vrai gain de temps au quotidien.</p>\n    </div>\n    <div class=\"nu-card r2\">\n      <h3>🏠 Une maison toujours propre</h3>\n      <p>Plus de traces sur le sol ni sur le canapé : sérénité retrouvée après chaque sortie.</p>\n    </div>\n    <div class=\"nu-card r3\">\n      <h3>🔋 Liberté du sans-fil</h3>\n      <p>Chargez 2 h, utilisez jusqu’à 10 jours — compact, il vous suit partout.</p>\n    </div>\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_BJPwbG": {
       "type": "featured-product",
       "blocks": {
@@ -566,7 +553,6 @@
     "rich_text_3jGrtN",
     "slideshow",
     "featured_collection_8Gqfhz",
-    "custom_liquid_dM9YxU",
     "featured_product_BJPwbG",
     "before-after-image",
     "multi_column_JwYRJH",
