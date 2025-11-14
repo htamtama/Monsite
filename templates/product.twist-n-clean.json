@@ -104,6 +104,10 @@
             "page": ""
           }
         },
+        "separator_fiEwqQ": {
+          "type": "separator",
+          "settings": {}
+        },
         "collapsible_text_EHcKXb": {
           "type": "collapsible_text",
           "settings": {
@@ -130,6 +134,7 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_8QYbgJ",
+        "separator_fiEwqQ",
         "collapsible_text_EHcKXb"
       ],
       "settings": {
