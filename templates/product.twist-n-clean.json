@@ -320,15 +320,43 @@
         "item_Cj6ez9": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-il adapté à tous les chiens et chats ?",
+            "content": "<p>Absolument ❤️</p><p>Twist’n’Clean s’adapte aux <strong>petits comme aux grands animaux</strong>, chiens et chats compris.</p><p>Il nettoie sans douleur grâce à ses <strong>brosses en silicone ultra-douces</strong>.</p>"
           }
         },
         "item_yLjFpj": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Faut-il ajouter un produit nettoyant ?",
+            "content": "<p>Ce n’est pas obligatoire.</p><p>De l’eau seule suffit pour un nettoyage efficace 💧</p><p>Mais vous pouvez ajouter une <strong>goutte de shampoing doux</strong> pour un effet fraîcheur et un parfum agréable.</p>"
+          }
+        },
+        "item_fCVUYg": {
+          "type": "item",
+          "settings": {
+            "title": "Comment le nettoyer après usage ?",
+            "content": "<p>Facile !</p><p>Le couvercle et la brosse se <strong>détachent en un clic</strong> et se rincent à l’eau claire.</p><p>Tout est <strong>lavable et réutilisable</strong>, pour une hygiène parfaite à chaque utilisation. 🧼</p>"
+          }
+        },
+        "item_t3iLXQ": {
+          "type": "item",
+          "settings": {
+            "title": "Que contient le coffret Twist’n’Clean ?",
+            "content": "<p>✅ 1 nettoyeur automatique Twist’n’Clean™</p><p>🔌 1 câble USB de recharge</p><p>🧼 1 brosse en silicone douce amovible</p>"
+          }
+        },
+        "item_zFxF7C": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi choisir Twist’n’Clean ?",
+            "content": "<p>Parce qu’il rend votre quotidien <strong>plus propre, plus pratique et plus serein</strong>.</p><p>Fini les traces de pattes partout à la maison — dites <strong>adieu à la boue et bonjour à la propreté !</strong> 🏡✨</p>"
+          }
+        },
+        "item_7CjVRg": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nos commandes sont préparées et expédiées sous <strong>24 à 48h ouvrées</strong>.</p><p>Le délai moyen de livraison est de <strong>5 à 10 jours ouvrés</strong> selon votre localisation.</p><p>Vous recevrez un <strong>numéro de suivi</strong> dès que votre colis quitte notre entrepôt 🕊️📦</p>"
           }
         }
       },
@@ -336,17 +364,21 @@
         "item_pEkcyw",
         "item_iMqAFa",
         "item_Cj6ez9",
-        "item_yLjFpj"
+        "item_yLjFpj",
+        "item_fCVUYg",
+        "item_t3iLXQ",
+        "item_zFxF7C",
+        "item_7CjVRg"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
