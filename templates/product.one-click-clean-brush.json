@@ -113,6 +113,12 @@
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
+        },
+        "liquid_Kr63BB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         }
       },
       "block_order": [
@@ -130,7 +136,8 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_8QYbgJ",
-        "collapsible_text_EHcKXb"
+        "collapsible_text_EHcKXb",
+        "liquid_Kr63BB"
       ],
       "settings": {
         "full_width": true,
