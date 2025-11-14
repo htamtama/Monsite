@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_liquid_4cNcLn": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -304,6 +317,7 @@
     }
   },
   "order": [
+    "custom_liquid_4cNcLn",
     "main",
     "accordion_content_MbCHJm",
     "related-products",

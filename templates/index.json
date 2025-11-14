@@ -249,30 +249,6 @@
         "input_text_color": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Le résultat en un coup d'œil",
-        "content": "",
-        "before_image": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
-        "after_image": "shopify://shop_images/IMG_0306.jpg",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 91,
-        "background": "#e8e8e8",
-        "background_gradient": "",
-        "text_color": "#1b1e2f",
-        "before_text_color": "#e8e8e8",
-        "after_text_color": "#e8e8e8",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#1b1e2f"
-      }
-    },
     "multi_column_JwYRJH": {
       "type": "multi-column",
       "blocks": {
@@ -554,7 +530,6 @@
     "slideshow",
     "featured_collection_8Gqfhz",
     "featured_product_BJPwbG",
-    "before-after-image",
     "multi_column_JwYRJH",
     "multi_column_B6M6t8",
     "faq_6bRHhp",
