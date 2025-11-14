@@ -39,7 +39,7 @@
         "liquid_jFLUUh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.red-box {\n  background-color: #F26B6B; /* Rouge rosé premium */\n  color: #fff;\n  padding: 8px 12px;\n  text-align: center;\n  font-size: 10px;\n  font-weight: 500;\n  border-radius: 5px;\n  margin-bottom: 10px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n}\n\n/* Effet de pulsation sur le feu 🔥 */\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.2); opacity: 0.8; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n.red-box .emoji {\n  animation: pulse 1s infinite;\n  display: inline-block;\n}\n</style>\n\n<div class=\"red-box\">\n  <span class=\"emoji\">🔥</span> Plus que quelques exemplaires en stock — ne ratez pas votre One-Click Clean Brush préférée !\n</div>"
+            "liquid": "<style>\n.red-box {\n  background-color: #F26B6B; /* Rouge rosé premium */\n  color: #fff;\n  padding: 8px 12px;\n  text-align: center;\n  font-size: 10px;\n  font-weight: 500;\n  border-radius: 5px;\n  margin-bottom: 10px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n}\n\n/* Effet de pulsation sur le feu 🔥 */\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.2); opacity: 0.8; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n.red-box .emoji {\n  animation: pulse 1s infinite;\n  display: inline-block;\n}\n</style>\n\n<div class=\"red-box\">\n  <span class=\"emoji\">🔥</span> Plus que 10 exemplaires en stock — ne ratez pas votre One-Click Clean Brush préférée !\n</div>"
           }
         },
         "text_xWTF6N": {
@@ -93,20 +93,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "image_yzJPRk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_1800_x_1000_px_1800_x_600_px_1600_x_500_px_-3.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_HKLhzF": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.brush-accordion {\n  border-radius: 16px;\n  background: #F5F7FA;\n  padding: 20px;\n  border: 1px solid #E1E4EA;\n  font-family: inherit;\n  margin: 28px 0;\n}\n\n.brush-accordion-title {\n  font-weight: 700;\n  font-size: 16px;\n  color: #1B1E2F;\n  margin-bottom: 10px;\n}\n\n.brush-item {\n  border-bottom: 1px solid #E1E4EA;\n  padding: 10px 0;\n}\n\n.brush-item:last-of-type {\n  border-bottom: none;\n}\n\n.brush-item summary {\n  list-style: none;\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  justify-content: space-between;\n  font-weight: 600;\n  color: #1B1E2F;\n}\n\n.brush-item summary::-webkit-details-marker {\n  display: none;\n}\n\n.brush-label {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  flex: 1;\n}\n\n.brush-icon {\n  font-size: 18px;\n}\n\n.brush-item summary::after {\n  content: \"+\";\n  font-size: 18px;\n  color: #9AA3B2;\n  margin-left: 8px;\n  transition: transform 0.2s ease;\n}\n\n.brush-item[open] summary::after {\n  content: \"–\";\n}\n\n.brush-content {\n  margin-top: 8px;\n  font-size: 14px;\n  line-height: 1.5;\n  color: #4B5563;\n}\n\n.brush-content p {\n  margin: 0 0 6px 0;\n}\n\n.brush-content ul {\n  margin: 0;\n  padding-left: 18px;\n}\n</style>\n\n<div class=\"brush-accordion\">\n  <div class=\"brush-accordion-title\">Détails & informations</div>\n\n  <!-- COMMENT L'UTILISER -->\n  <details class=\"brush-item\" open>\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">📋</span>\n        <span>Comment l’utiliser ?</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <p>Brossez votre animal dans le sens du poil :</p>\n      <ul>\n        <li>Brossez délicatement sur les zones à poils.</li>\n        <li>La brosse retient automatiquement le sous-poil.</li>\n        <li>Appuyez sur le bouton : le tapis de poils se libère immédiatement.</li>\n        <li>Rincez la tête de brosse si besoin et laissez sécher.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- DÉTAILS DU PRODUIT -->\n  <details class=\"brush-item\">\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">🧾</span>\n        <span>Détails du produit</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <ul>\n        <li>Dents arrondies en acier inoxydable.</li>\n        <li>Poignée antidérapante pour une bonne prise en main.</li>\n        <li>Mécanisme auto-nettoyant One-Click.</li>\n        <li>Matériaux premium ABS.</li>\n        <li>Dimensions : environ 20 cm.</li>\n        <li>Convient aux chiens & chats.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- EXPÉDITION & LIVRAISON -->\n  <details class=\"brush-item\">\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">📦</span>\n        <span>Expédition & livraison</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <ul>\n        <li>Expédition sous 24–48h.</li>\n        <li>Livraison suivie en 5 à 8 jours ouvrés.</li>\n        <li>Numéro de suivi envoyé automatiquement par email.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- RETOUR & REMBOURSEMENT -->\n  <details class=\"brush-item\">\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">🔁</span>\n        <span>Retour & remboursement</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <ul>\n        <li>✔ 30 jours pour changer d’avis après réception.</li>\n        <li>✔ Remboursement simple & rapide après contrôle du produit.</li>\n        <li>✔ Support client NUVANA Dog & Cat 7j/7.</li>\n      </ul>\n    </div>\n  </details>\n</div>"
-          }
         }
       },
       "block_order": [
@@ -122,9 +108,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "image_yzJPRk",
-        "liquid_HKLhzF"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
@@ -142,6 +126,35 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_R4bHNG": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe_1800_x_1000_px_1800_x_600_px_1600_x_500_px_-3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_jdcmLq": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.brush-accordion {\n  border-radius: 16px;\n  background: #F5F7FA;\n  padding: 20px;\n  border: 1px solid #E1E4EA;\n  font-family: inherit;\n  margin: 28px 0;\n}\n\n.brush-accordion-title {\n  font-weight: 700;\n  font-size: 16px;\n  color: #1B1E2F;\n  margin-bottom: 10px;\n}\n\n.brush-item {\n  border-bottom: 1px solid #E1E4EA;\n  padding: 10px 0;\n}\n\n.brush-item:last-of-type {\n  border-bottom: none;\n}\n\n.brush-item summary {\n  list-style: none;\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  justify-content: space-between;\n  font-weight: 600;\n  color: #1B1E2F;\n}\n\n.brush-item summary::-webkit-details-marker {\n  display: none;\n}\n\n.brush-label {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  flex: 1;\n}\n\n.brush-icon {\n  font-size: 18px;\n}\n\n.brush-item summary::after {\n  content: \"+\";\n  font-size: 18px;\n  color: #9AA3B2;\n  margin-left: 8px;\n  transition: transform 0.2s ease;\n}\n\n.brush-item[open] summary::after {\n  content: \"–\";\n}\n\n.brush-content {\n  margin-top: 8px;\n  font-size: 14px;\n  line-height: 1.5;\n  color: #4B5563;\n}\n\n.brush-content p {\n  margin: 0 0 6px 0;\n}\n\n.brush-content ul {\n  margin: 0;\n  padding-left: 18px;\n}\n</style>\n\n<div class=\"brush-accordion\">\n  <div class=\"brush-accordion-title\">Détails & informations</div>\n\n  <!-- COMMENT L'UTILISER -->\n  <details class=\"brush-item\" open>\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">📋</span>\n        <span>Comment l’utiliser ?</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <p>Brossez votre animal dans le sens du poil :</p>\n      <ul>\n        <li>Brossez délicatement sur les zones à poils.</li>\n        <li>La brosse retient automatiquement le sous-poil.</li>\n        <li>Appuyez sur le bouton : le tapis de poils se libère immédiatement.</li>\n        <li>Rincez la tête de brosse si besoin et laissez sécher.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- DÉTAILS DU PRODUIT -->\n  <details class=\"brush-item\">\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">🧾</span>\n        <span>Détails du produit</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <ul>\n        <li>Dents arrondies en acier inoxydable.</li>\n        <li>Poignée antidérapante pour une bonne prise en main.</li>\n        <li>Mécanisme auto-nettoyant One-Click.</li>\n        <li>Matériaux premium ABS.</li>\n        <li>Dimensions : environ 20 cm.</li>\n        <li>Convient aux chiens & chats.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- EXPÉDITION & LIVRAISON -->\n  <details class=\"brush-item\">\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">📦</span>\n        <span>Expédition & livraison</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <ul>\n        <li>Expédition sous 24–48h.</li>\n        <li>Livraison suivie en 5 à 8 jours ouvrés.</li>\n        <li>Numéro de suivi envoyé automatiquement par email.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- RETOUR & REMBOURSEMENT -->\n  <details class=\"brush-item\">\n    <summary>\n      <div class=\"brush-label\">\n        <span class=\"brush-icon\">🔁</span>\n        <span>Retour & remboursement</span>\n      </div>\n    </summary>\n    <div class=\"brush-content\">\n      <ul>\n        <li>✔ 30 jours pour changer d’avis après réception.</li>\n        <li>✔ Remboursement simple & rapide après contrôle du produit.</li>\n        <li>✔ Support client NUVANA Dog & Cat 7j/7.</li>\n      </ul>\n    </div>\n  </details>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "custom_liquid_afq3ER": {
@@ -182,6 +195,8 @@
   },
   "order": [
     "main",
+    "image_with_text_overlay_R4bHNG",
+    "custom_liquid_jdcmLq",
     "custom_liquid_afq3ER",
     "related-products"
   ]
