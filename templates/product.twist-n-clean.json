@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_ipY6Ta": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share some content to your customers about your products.</p>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -126,7 +120,6 @@
         }
       },
       "block_order": [
-        "text_ipY6Ta",
         "title",
         "liquid_jH7nnK",
         "badges",
@@ -221,6 +214,33 @@
         "accordion_text_color": "#1b1e2f"
       }
     },
+    "before_after_image_PKtYPy": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
+        "before_image_mobile": "shopify://shop_images/IMG_0303_77abe99c-c82f-468e-92e4-c7b4f45abf46.jpg",
+        "after_image": "shopify://shop_images/IMG_0306.jpg",
+        "after_image_mobile": "shopify://shop_images/IMG_0306.jpg",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -247,6 +267,7 @@
   "order": [
     "main",
     "accordion_content_MbCHJm",
+    "before_after_image_PKtYPy",
     "related-products"
   ]
 }
