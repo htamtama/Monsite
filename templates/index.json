@@ -249,82 +249,6 @@
         "input_text_color": ""
       }
     },
-    "multi_column_JwYRJH": {
-      "type": "multi-column",
-      "blocks": {
-        "item_haNnkM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sans_titre_1080_x_1080_px_-3_74f16b16-ab05-40ef-b707-e20ba071ba36.png",
-            "column_size": "4",
-            "title": "🧴Ajouter de l'eau et un peu de shampoing",
-            "heading_tag": "h6",
-            "content": "<p>Remplissez le réservoir et ajoutez quelques gouttes de shampoing pour un nettoyage encore plus efficace.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MPtd4a": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_2fd87d81-fe86-4c32-b8c7-649d5bd3244d.png",
-            "column_size": "4",
-            "title": "🐾 Insérez la patte & laissez Twist’n’Clean faire le travail",
-            "heading_tag": "h6",
-            "content": "<p>Le système rotatif nettoie en douceur chaque coussinet sans éclaboussures.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tzhK7y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_b9720a31-4a3e-4a1e-b763-9b4077dc5196.png",
-            "column_size": "4",
-            "title": "🧼 Essuyez délicatement les pattes",
-            "heading_tag": "h6",
-            "content": "<p>Utilisez une serviette pour un résultat sec, propre et soyeux.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yF9bwH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_b1f7c3be-2a5d-4a86-93a6-cbd6263d5151.png",
-            "column_size": "4",
-            "title": "💧Rincez la brosse & préparez la prochaine utilisation",
-            "heading_tag": "h6",
-            "content": "<p>La brosse en silicone se nettoie en un geste, prête pour la prochaine balade.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_haNnkM",
-        "item_MPtd4a",
-        "item_tzhK7y",
-        "item_yF9bwH"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "4 étapes simples pour des pattes propres en moins de 2 minutes",
-        "title": "Comment utiliser Twist’n’Clean ?",
-        "content": "",
-        "background": "#e8e8e8",
-        "background_gradient": "",
-        "text_color": "#1b1e2f"
-      }
-    },
     "multi_column_B6M6t8": {
       "type": "multi-column",
       "blocks": {
@@ -530,7 +454,6 @@
     "slideshow",
     "featured_collection_8Gqfhz",
     "featured_product_BJPwbG",
-    "multi_column_JwYRJH",
     "multi_column_B6M6t8",
     "faq_6bRHhp",
     "contact_E39Hri",

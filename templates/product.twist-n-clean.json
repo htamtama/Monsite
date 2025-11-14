@@ -306,8 +306,15 @@
         "item_pEkcyw": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment fonctionne Twist’n’Clean ?",
+            "content": "<p>Twist’n’Clean utilise une <strong>rotation douce à 360° et bidirectionnelle automatique </strong>pour éliminer boue, poussière et saletés entre les coussinets.<br/>Remplissez simplement le réservoir d’eau, insérez la patte, appuyez sur le bouton et… c’est propre en quelques secondes ! 🐾✨</p>"
+          }
+        },
+        "item_iMqAFa": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
         "item_Cj6ez9": {
@@ -327,6 +334,7 @@
       },
       "block_order": [
         "item_pEkcyw",
+        "item_iMqAFa",
         "item_Cj6ez9",
         "item_yLjFpj"
       ],
