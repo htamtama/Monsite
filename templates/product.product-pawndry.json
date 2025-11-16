@@ -36,16 +36,10 @@
             "collapse_content": false
           }
         },
-        "liquid_jFLUUh": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.red-box {\n  background-color: #F26B6B; /* Rouge rosé premium */\n  color: #fff;\n  padding: 8px 12px;\n  text-align: center;\n  font-size: 10px;\n  font-weight: 500;\n  border-radius: 5px;\n  margin-bottom: 10px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n}\n\n/* Effet de pulsation sur le feu 🔥 */\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.2); opacity: 0.8; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n.red-box .emoji {\n  animation: pulse 1s infinite;\n  display: inline-block;\n}\n</style>\n\n<div class=\"red-box\">\n  <span class=\"emoji\">🔥</span> Plus que quelques exemplaires en stock — ne ratez pas votre One-Click Clean Brush préférée !\n</div>"
-          }
-        },
         "text_xWTF6N": {
           "type": "text",
           "settings": {
-            "text": "<p>En un clic, éliminez les poils tout en offrant un brossage doux, sûr et agréable.<br/>Solide, hygiénique et pensée pour tous les chiens et chats.</p>"
+            "text": "<p><strong>Paw’n’Dry</strong>, la serviette patte en microfibre qui sèche instantanément les coussinets et garde ta maison propre – même après les balades sous la pluie.</p>"
           }
         },
         "price": {
@@ -120,7 +114,6 @@
         "liquid_jH7nnK",
         "badges",
         "description",
-        "liquid_jFLUUh",
         "text_xWTF6N",
         "price",
         "rating",
@@ -220,7 +213,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "Idéal avec",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -230,11 +223,25 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "custom_liquid_3bp7NM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .paw-accordion {\n    font-family: \"Poppins\", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;\n    max-width: 680px;\n    margin: 0 auto 24px auto;\n    font-size: 14px;\n    color: #1B1E2F;\n  }\n\n  .paw-accordion details {\n    border-radius: 10px;\n    border: 1px solid #E3E6EA;\n    background: #F7F8FA;\n    margin-bottom: 8px;\n    padding: 0 12px;\n  }\n\n  .paw-accordion summary {\n    list-style: none;\n    cursor: pointer;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    padding: 10px 0;\n    font-weight: 600;\n  }\n\n  .paw-accordion summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .paw-acc-title {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n  }\n\n  .paw-acc-icon {\n    font-size: 18px;\n  }\n\n  .paw-accordion .paw-acc-content {\n    padding: 4px 0 10px 0;\n    border-top: 1px solid #E3E6EA;\n    margin-top: 4px;\n  }\n\n  .paw-accordion ul {\n    margin: 6px 0 0 16px;\n    padding: 0;\n  }\n\n  .paw-accordion li {\n    margin-bottom: 4px;\n    line-height: 1.4;\n  }\n</style>\n\n<div class=\"paw-accordion\">\n  <!-- DÉTAILS DU PRODUIT -->\n  <details open>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">📦</span>\n        <span>Détails du produit</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li><strong>Matière :</strong> microfibre ultra-douce </li>\n        <li><strong>Taille :</strong> 22 × 15 cm (adaptée à la plupart des pattes de chiens & chats)</li>\n        <li><strong>Poids :</strong> env. 23 g (légère et facile à manipuler)</li>\n        <li><strong>Usage :</strong> chiens & chats, poils courts ou longs</li>\n        <li><strong>Lavage :</strong> en machine à 30°C, séchage à l’air libre</li>\n        <li><strong>Design :</strong> forme patte avec empreinte contrastée </li>\n        <li><strong>Couleurs possibles :</strong> gris, bleu </li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- COMMENT L’UTILISER ? -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🧼</span>\n        <span>Comment l’utiliser ?</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>Passe rapidement un coup de patte sur la serviette pour enlever le surplus de boue.</li>\n        <li>Glisse la patte de ton chien ou de ton chat à l’intérieur de la serviette.</li>\n        <li>Presse délicatement en entourant les coussinets pour absorber l’eau et les saletés.</li>\n        <li>Répète sur chaque patte.</li>\n        <li>Suspends la serviette pour la laisser sécher ou mets-la en machine si besoin.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- EXPÉDITION & LIVRAISON -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🚚</span>\n        <span>Expédition & livraison</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>Expédition de ta commande sous <strong>24–48h ouvrées</strong>.</li>\n        <li>Livraison suivie en moyenne sous <strong>5 à 10 jours ouvrés</strong>.</li>\n        <li>Un <strong>numéro de suivi</strong> est envoyé automatiquement par e-mail dès l’expédition.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- RETOUR & REMBOURSEMENT -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🔄</span>\n        <span>Retour & remboursement</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>✅ <strong>30 jours</strong> pour changer d’avis après réception.</li>\n        <li>✅ Remboursement simple & rapide en cas de problème.</li>\n        <li>✅ Support client disponible <strong>7j/7</strong> pour t’accompagner.</li>\n      </ul>\n    </div>\n  </details>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "accordion_content_MbCHJm",
-    "related-products"
+    "related-products",
+    "custom_liquid_3bp7NM"
   ]
 }
