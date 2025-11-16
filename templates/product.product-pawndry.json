@@ -21,7 +21,7 @@
         "liquid_jH7nnK": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #1B1E2F;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4.6 (50 avis)\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #1B1E2F;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4.7 (58 avis)\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "badges": {
@@ -87,26 +87,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "collapsible_text_8QYbgJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_EHcKXb": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -121,9 +101,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "collapsible_text_8QYbgJ",
-        "collapsible_text_EHcKXb"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
@@ -143,63 +121,17 @@
         "input_text_color": ""
       }
     },
-    "accordion_content_MbCHJm": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_i8Kmkm": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Pourquoi vous allez l’adorer",
-            "content": "<p>🐾 <strong>Absorption extrême</strong>– Sèche les pattes et le pelage en quelques secondes.<br/>🐾 <strong>Toucher nuageux</strong>– Texture moelleuse et douce comme une caresse.<br/>🐾 <strong>Forme de patte ergonomique</strong>– Facilite la prise en main et le séchage rapide.<br/>🐾 <strong>Matière premium</strong>– Microfibre épaisse, lavable en machine, durable.<br/>🐾 <strong>Design élégant</strong>– Disponible en <strong>gris perle </strong>et <strong>bleu nuage.</strong></p>",
-            "page": ""
-          }
-        },
-        "item_JU68qD": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": " Les bienfaits d’un brossage régulier",
-            "content": "<p>✨ Évite les nœuds et les poils emmêlés.<br/>✨ Réduit la perte de poils dans la maison.<br/>✨ Stimule la circulation sanguine et masse la peau.<br/>✨ Rend le pelage plus brillant, doux et sain.<br/>✨ Améliore le confort et le bien-être de votre compagnon.</p>",
-            "page": ""
-          }
-        },
-        "item_BzxwFN": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Caractéristiques techniques",
-            "content": "<p>•<strong>Matériaux</strong>: acier inoxydable + ABS haute qualité<br/>•<strong>Fonction</strong>: bouton de nettoyage automatique<br/>•<strong>Dimensions</strong>: 19 × 8 cm<br/>•<strong>Poids</strong>: 90 g<br/>•<strong>Couleurs disponibles</strong>: crème / vert menthe</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_i8Kmkm",
-        "item_JU68qD",
-        "item_BzxwFN"
-      ],
-      "name": "Accordion content",
+    "custom_liquid_3bp7NM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "🐾 Détails & Informations",
-        "content": "<p>La Paw’n’Dry est bien plus qu’une simple serviette , c’est l’accessoire indispensable pour un séchage rapide, efficace et tout en tendresse.<br/>Fabriquée en microfibre de corail ultra-douce, elle élimine instantanément l’humidité du pelage tout en respectant la peau de votre animal.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .paw-accordion {\n    font-family: \"Poppins\", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;\n    max-width: 680px;\n    margin: 0 auto 24px auto;\n    font-size: 14px;\n    color: #1B1E2F;\n  }\n\n  .paw-accordion details {\n    border-radius: 10px;\n    border: 1px solid #E3E6EA;\n    background: #F7F8FA;\n    margin-bottom: 8px;\n    padding: 0 12px;\n  }\n\n  .paw-accordion summary {\n    list-style: none;\n    cursor: pointer;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    padding: 10px 0;\n    font-weight: 600;\n  }\n\n  .paw-accordion summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .paw-acc-title {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n  }\n\n  .paw-acc-icon {\n    font-size: 18px;\n  }\n\n  .paw-accordion .paw-acc-content {\n    padding: 4px 0 10px 0;\n    border-top: 1px solid #E3E6EA;\n    margin-top: 4px;\n  }\n\n  .paw-accordion ul {\n    margin: 6px 0 0 16px;\n    padding: 0;\n  }\n\n  .paw-accordion li {\n    margin-bottom: 4px;\n    line-height: 1.4;\n  }\n</style>\n\n<div class=\"paw-accordion\">\n  <!-- DÉTAILS DU PRODUIT -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">📦</span>\n        <span>Détails du produit</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li><strong>Matière :</strong> microfibre ultra-douce (type “coral fleece”)</li>\n        <li><strong>Taille :</strong> 22 × 15 cm (adaptée à la plupart des pattes de chiens & chats)</li>\n        <li><strong>Poids :</strong> env. 23 g (légère et facile à manipuler)</li>\n        <li><strong>Usage :</strong> chiens & chats, poils courts ou longs</li>\n        <li><strong>Lavage :</strong> en machine à 30°C, séchage à l’air libre</li>\n        <li><strong>Design :</strong> forme patte avec empreinte contrastée (look mignon + repère visuel)</li>\n        <li><strong>Couleurs possibles :</strong> gris, bleu, rose (selon les variantes)</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- COMMENT L’UTILISER ? -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🧼</span>\n        <span>Comment l’utiliser ?</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>Passe rapidement un coup de patte sur la serviette pour enlever le surplus de boue.</li>\n        <li>Glisse la patte de ton chien ou de ton chat à l’intérieur de la serviette.</li>\n        <li>Presse délicatement en entourant les coussinets pour absorber l’eau et les saletés.</li>\n        <li>Répète sur chaque patte.</li>\n        <li>Suspends la serviette pour la laisser sécher ou mets-la en machine si besoin.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- EXPÉDITION & LIVRAISON -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🚚</span>\n        <span>Expédition & livraison</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>Expédition de ta commande sous <strong>24–48h ouvrées</strong>.</li>\n        <li>Livraison suivie en moyenne sous <strong>5 à 10 jours ouvrés</strong>.</li>\n        <li>Un <strong>numéro de suivi</strong> est envoyé automatiquement par e-mail dès l’expédition.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- RETOUR & REMBOURSEMENT -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🔄</span>\n        <span>Retour & remboursement</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>✅ <strong>30 jours</strong> pour changer d’avis après réception.</li>\n        <li>✅ Remboursement simple & rapide en cas de problème.</li>\n        <li>✅ Support client disponible <strong>7j/7</strong> pour t’accompagner.</li>\n      </ul>\n    </div>\n  </details>\n</div>",
         "background": "",
         "background_gradient": "",
-        "text_color": "#1b1e2f",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "#1b1e2f",
-        "accordion_background": "",
-        "accordion_text_color": "#1b1e2f"
+        "text_color": ""
       }
     },
     "related-products": {
@@ -223,25 +155,11 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "custom_liquid_3bp7NM": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .paw-accordion {\n    font-family: \"Poppins\", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;\n    max-width: 680px;\n    margin: 0 auto 24px auto;\n    font-size: 14px;\n    color: #1B1E2F;\n  }\n\n  .paw-accordion details {\n    border-radius: 10px;\n    border: 1px solid #E3E6EA;\n    background: #F7F8FA;\n    margin-bottom: 8px;\n    padding: 0 12px;\n  }\n\n  .paw-accordion summary {\n    list-style: none;\n    cursor: pointer;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    padding: 10px 0;\n    font-weight: 600;\n  }\n\n  .paw-accordion summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .paw-acc-title {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n  }\n\n  .paw-acc-icon {\n    font-size: 18px;\n  }\n\n  .paw-accordion .paw-acc-content {\n    padding: 4px 0 10px 0;\n    border-top: 1px solid #E3E6EA;\n    margin-top: 4px;\n  }\n\n  .paw-accordion ul {\n    margin: 6px 0 0 16px;\n    padding: 0;\n  }\n\n  .paw-accordion li {\n    margin-bottom: 4px;\n    line-height: 1.4;\n  }\n</style>\n\n<div class=\"paw-accordion\">\n  <!-- DÉTAILS DU PRODUIT -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">📦</span>\n        <span>Détails du produit</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li><strong>Matière :</strong> microfibre ultra-douce (type “coral fleece”)</li>\n        <li><strong>Taille :</strong> 22 × 15 cm (adaptée à la plupart des pattes de chiens & chats)</li>\n        <li><strong>Poids :</strong> env. 23 g (légère et facile à manipuler)</li>\n        <li><strong>Usage :</strong> chiens & chats, poils courts ou longs</li>\n        <li><strong>Lavage :</strong> en machine à 30°C, séchage à l’air libre</li>\n        <li><strong>Design :</strong> forme patte avec empreinte contrastée (look mignon + repère visuel)</li>\n        <li><strong>Couleurs possibles :</strong> gris, bleu, rose (selon les variantes)</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- COMMENT L’UTILISER ? -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🧼</span>\n        <span>Comment l’utiliser ?</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>Passe rapidement un coup de patte sur la serviette pour enlever le surplus de boue.</li>\n        <li>Glisse la patte de ton chien ou de ton chat à l’intérieur de la serviette.</li>\n        <li>Presse délicatement en entourant les coussinets pour absorber l’eau et les saletés.</li>\n        <li>Répète sur chaque patte.</li>\n        <li>Suspends la serviette pour la laisser sécher ou mets-la en machine si besoin.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- EXPÉDITION & LIVRAISON -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🚚</span>\n        <span>Expédition & livraison</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>Expédition de ta commande sous <strong>24–48h ouvrées</strong>.</li>\n        <li>Livraison suivie en moyenne sous <strong>5 à 10 jours ouvrés</strong>.</li>\n        <li>Un <strong>numéro de suivi</strong> est envoyé automatiquement par e-mail dès l’expédition.</li>\n      </ul>\n    </div>\n  </details>\n\n  <!-- RETOUR & REMBOURSEMENT -->\n  <details>\n    <summary>\n      <span class=\"paw-acc-title\">\n        <span class=\"paw-acc-icon\">🔄</span>\n        <span>Retour & remboursement</span>\n      </span>\n      <span>+</span>\n    </summary>\n    <div class=\"paw-acc-content\">\n      <ul>\n        <li>✅ <strong>30 jours</strong> pour changer d’avis après réception.</li>\n        <li>✅ Remboursement simple & rapide en cas de problème.</li>\n        <li>✅ Support client disponible <strong>7j/7</strong> pour t’accompagner.</li>\n      </ul>\n    </div>\n  </details>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "main",
-    "accordion_content_MbCHJm",
-    "related-products",
-    "custom_liquid_3bp7NM"
+    "custom_liquid_3bp7NM",
+    "related-products"
   ]
 }
