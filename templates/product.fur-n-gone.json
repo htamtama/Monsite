@@ -93,26 +93,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "collapsible_text_8QYbgJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_EHcKXb": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -128,9 +108,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "collapsible_text_8QYbgJ",
-        "collapsible_text_EHcKXb"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
@@ -148,65 +126,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "accordion_content_MbCHJm": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_i8Kmkm": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Pourquoi vous allez l’adorer",
-            "content": "<p>🐾 <strong>Absorption extrême</strong>– Sèche les pattes et le pelage en quelques secondes.<br/>🐾 <strong>Toucher nuageux</strong>– Texture moelleuse et douce comme une caresse.<br/>🐾 <strong>Forme de patte ergonomique</strong>– Facilite la prise en main et le séchage rapide.<br/>🐾 <strong>Matière premium</strong>– Microfibre épaisse, lavable en machine, durable.<br/>🐾 <strong>Design élégant</strong>– Disponible en <strong>gris perle </strong>et <strong>bleu nuage.</strong></p>",
-            "page": ""
-          }
-        },
-        "item_JU68qD": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": " Les bienfaits d’un brossage régulier",
-            "content": "<p>✨ Évite les nœuds et les poils emmêlés.<br/>✨ Réduit la perte de poils dans la maison.<br/>✨ Stimule la circulation sanguine et masse la peau.<br/>✨ Rend le pelage plus brillant, doux et sain.<br/>✨ Améliore le confort et le bien-être de votre compagnon.</p>",
-            "page": ""
-          }
-        },
-        "item_BzxwFN": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Caractéristiques techniques",
-            "content": "<p>•<strong>Matériaux</strong>: acier inoxydable + ABS haute qualité<br/>•<strong>Fonction</strong>: bouton de nettoyage automatique<br/>•<strong>Dimensions</strong>: 19 × 8 cm<br/>•<strong>Poids</strong>: 90 g<br/>•<strong>Couleurs disponibles</strong>: crème / vert menthe</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_i8Kmkm",
-        "item_JU68qD",
-        "item_BzxwFN"
-      ],
-      "name": "Accordion content",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "🐾 Détails & Informations",
-        "content": "<p>La Paw’n’Dry est bien plus qu’une simple serviette , c’est l’accessoire indispensable pour un séchage rapide, efficace et tout en tendresse.<br/>Fabriquée en microfibre de corail ultra-douce, elle élimine instantanément l’humidité du pelage tout en respectant la peau de votre animal.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#1b1e2f",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "#1b1e2f",
-        "accordion_background": "",
-        "accordion_text_color": "#1b1e2f"
       }
     },
     "related-products": {
@@ -234,7 +153,6 @@
   },
   "order": [
     "main",
-    "accordion_content_MbCHJm",
     "related-products"
   ]
 }
