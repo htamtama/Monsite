@@ -32,7 +32,7 @@
           "type": "description",
           "settings": {
             "icon": "none",
-            "icon_width": 20,
+            "icon_width": 16,
             "collapse_content": false
           }
         },
@@ -128,6 +128,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_FRDq4m": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n:root{\n  --navy: #1B1E2F;\n  --grey-light: #F2F3F5;\n  --card: #FFFFFF;\n  --accent: #D1D5DB; /* Gris doux */\n  --good: #1DBF73;\n  --bad: #E45858;\n}\n\n/* Wrapper général */\n.compare-section{\n  font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;\n  background: var(--grey-light);\n  padding: 28px 18px;\n  border-radius: 16px;\n  margin: 24px 0;\n}\n\n/* Titre */\n.compare-title{\n  text-align: center;\n  font-weight: 700;\n  font-size: 20px;\n  color: var(--navy);\n  margin-bottom: 18px;\n}\n\n/* Grille 2 colonnes */\n.compare-grid{\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 18px;\n}\n\n/* Cartes */\n.compare-card{\n  background: var(--card);\n  border-radius: 16px;\n  padding: 18px 18px 16px;\n  box-shadow: 0 10px 25px rgba(0,0,0,0.04);\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n\n/* En-têtes des cartes */\n.compare-card-header{\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  margin-bottom: 6px;\n}\n\n.compare-name{\n  font-weight: 700;\n  font-size: 16px;\n  color: var(--navy);\n}\n\n.compare-tag{\n  font-size: 11px;\n  padding: 4px 10px;\n  border-radius: 999px;\n  font-weight: 600;\n}\n\n.compare-tag.good{\n  background: var(--accent);\n  color: var(--navy);\n}\n\n.compare-tag.bad{\n  background: #EBECF0;\n  color: var(--navy);\n  border: 1px solid #D5D7DB;\n}\n\n/* Liste */\n.compare-list{\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  display: flex;\n  flex-direction: column;\n  gap: 6px;\n  font-size: 13px;\n}\n\n.compare-item{\n  display: flex;\n  align-items: flex-start;\n  gap: 6px;\n  color: var(--navy);\n}\n\n.compare-icon{\n  font-size: 16px;\n  line-height: 1.2;\n}\n\n.compare-icon.good{\n  color: var(--good);\n}\n\n.compare-icon.bad{\n  color: var(--bad);\n}\n\n.compare-text{\n  line-height: 1.35;\n}\n\n/* Responsive mobile */\n@media (max-width: 768px){\n  .compare-section{\n    padding: 22px 14px;\n  }\n  .compare-grid{\n    grid-template-columns: 1fr;\n  }\n}\n</style>\n\n<div class=\"compare-section\">\n  <div class=\"compare-title\">\n    Pourquoi <span style=\"color:var(--navy);\">Fur’n’Gone</span> fait toute la différence\n  </div>\n\n  <div class=\"compare-grid\">\n\n    <!-- Colonne Fur’n’Gone -->\n    <div class=\"compare-card\">\n      <div class=\"compare-card-header\">\n        <div class=\"compare-name\">🐾 Fur’n’Gone</div>\n        <div class=\"compare-tag good\">Votre gant anti-poils</div>\n      </div>\n\n      <ul class=\"compare-list\">\n        <li class=\"compare-item\">\n          <span class=\"compare-icon good\">✅</span>\n          <span class=\"compare-text\">Réutilisable à l’infini</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon good\">✅</span>\n          <span class=\"compare-text\">Économique dès les premières utilisations</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon good\">✅</span>\n          <span class=\"compare-text\">Aucun rechargement, aucun déchet</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon good\">✅</span>\n          <span class=\"compare-text\">Les poils s’enlèvent en un seul geste</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon good\">✅</span>\n          <span class=\"compare-text\">Écologique & zéro gaspillage</span>\n        </li>\n      </ul>\n    </div>\n\n    <!-- Colonne rouleau classique -->\n    <div class=\"compare-card\">\n      <div class=\"compare-card-header\">\n        <div class=\"compare-name\">🧻 Rouleaux adhésifs</div>\n        <div class=\"compare-tag bad\">Ancienne méthode</div>\n      </div>\n\n      <ul class=\"compare-list\">\n        <li class=\"compare-item\">\n          <span class=\"compare-icon bad\">❌</span>\n          <span class=\"compare-text\">Ne dure pas longtemps</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon bad\">❌</span>\n          <span class=\"compare-text\">Coûteux à force de recharges</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon bad\">❌</span>\n          <span class=\"compare-text\">Pas écologique</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon bad\">❌</span>\n          <span class=\"compare-text\">Feuilles difficiles à décoller</span>\n        </li>\n        <li class=\"compare-item\">\n          <span class=\"compare-icon bad\">❌</span>\n          <span class=\"compare-text\">Gaspillage à chaque utilisation</span>\n        </li>\n      </ul>\n    </div>\n\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -153,6 +166,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_FRDq4m",
     "related-products"
   ]
 }
