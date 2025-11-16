@@ -161,6 +161,33 @@
         "text_color": ""
       }
     },
+    "before_after_image_ATijbg": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>La différence en un passage</h4>",
+        "before_image": "shopify://shop_images/IMG_0452.jpg",
+        "before_image_mobile": "shopify://shop_images/IMG_0452.jpg",
+        "after_image": "shopify://shop_images/IMG_0453.jpg",
+        "after_image_mobile": "shopify://shop_images/IMG_0453.jpg",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#1b1e2f",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -188,6 +215,7 @@
     "main",
     "custom_liquid_FRDq4m",
     "custom_liquid_bYdRrX",
+    "before_after_image_ATijbg",
     "related-products"
   ]
 }
