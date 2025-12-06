@@ -48,12 +48,6 @@
             "text": "<p>Finies les heures à nettoyer partout : un geste suffit pour retrouver un foyer propre et un animal apaisé.</p>"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -83,16 +77,16 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "liquid_V8ANVG": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.offer-timer-box {\n  background-color: #E5E8EF; /* Gris bleuté premium */\n  color: #1B1E2F; /* Bleu nuit */\n  padding: 10px 14px;\n  text-align: center;\n  font-size: 12px;\n  font-weight: 500;\n  border-radius: 8px;\n  margin-bottom: 12px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n  font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;\n  border: 1px solid #D3D7DF;\n}\n\n/* Icône ⏳ effet léger */\n.offer-timer-box .emoji {\n  font-size: 16px;\n  animation: pulse 1.4s infinite;\n}\n\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.15); opacity: 0.85; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n#countdown-timer {\n  font-weight: 700;\n  padding: 2px 8px;\n  background: #1B1E2F;\n  color: #FFFFFF;\n  border-radius: 6px;\n  font-size: 12px;\n}\n</style>\n\n<div class=\"offer-timer-box\">\n  <span class=\"emoji\">⏳</span>\n  <span>Dépêchez-vous, l’offre expire dans :</span>\n  <span id=\"countdown-timer\">90:00</span>\n</div>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function () {\n  var duration = 90 * 60; // 90 minutes\n\n  function updateTimer() {\n    var minutes = Math.floor(duration / 60);\n    var seconds = duration % 60;\n\n    minutes = minutes < 10 ? \"0\" + minutes : minutes;\n    seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n    document.getElementById('countdown-timer').textContent = minutes + \":\" + seconds;\n\n    if (duration > 0) {\n      duration--;\n    } \n  }\n\n  updateTimer();\n  setInterval(updateTimer, 1000);\n});\n</script>"
-          }
-        },
         "rapi_rapi_bundle_B7DKiW": {
           "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
             "product": "fur-n-gone™-retire-les-poils-en-un-seul-passage"
+          }
+        },
+        "liquid_V8ANVG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.offer-timer-box {\n  background-color: #E5E8EF; /* Gris bleuté premium */\n  color: #1B1E2F; /* Bleu nuit */\n  padding: 10px 14px;\n  text-align: center;\n  font-size: 12px;\n  font-weight: 500;\n  border-radius: 8px;\n  margin-bottom: 12px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 6px;\n  font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;\n  border: 1px solid #D3D7DF;\n}\n\n/* Icône ⏳ effet léger */\n.offer-timer-box .emoji {\n  font-size: 16px;\n  animation: pulse 1.4s infinite;\n}\n\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 1; }\n  50% { transform: scale(1.15); opacity: 0.85; }\n  100% { transform: scale(1); opacity: 1; }\n}\n\n#countdown-timer {\n  font-weight: 700;\n  padding: 2px 8px;\n  background: #1B1E2F;\n  color: #FFFFFF;\n  border-radius: 6px;\n  font-size: 12px;\n}\n</style>\n\n<div class=\"offer-timer-box\">\n  <span class=\"emoji\">⏳</span>\n  <span>Dépêchez-vous, l’offre expire dans :</span>\n  <span id=\"countdown-timer\">90:00</span>\n</div>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function () {\n  var duration = 90 * 60; // 90 minutes\n\n  function updateTimer() {\n    var minutes = Math.floor(duration / 60);\n    var seconds = duration % 60;\n\n    minutes = minutes < 10 ? \"0\" + minutes : minutes;\n    seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n    document.getElementById('countdown-timer').textContent = minutes + \":\" + seconds;\n\n    if (duration > 0) {\n      duration--;\n    } \n  }\n\n  updateTimer();\n  setInterval(updateTimer, 1000);\n});\n</script>"
           }
         },
         "buy_buttons": {
@@ -114,14 +108,13 @@
         "description",
         "liquid_jFLUUh",
         "text_xWTF6N",
-        "price",
         "rating",
         "payment_terms",
         "separator",
         "variant_picker",
         "quantity_selector",
-        "liquid_V8ANVG",
         "rapi_rapi_bundle_B7DKiW",
+        "liquid_V8ANVG",
         "buy_buttons"
       ],
       "settings": {
