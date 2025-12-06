@@ -257,6 +257,65 @@
         "text_color": ""
       }
     },
+    "multi_column_eLkk3y": {
+      "type": "multi-column",
+      "blocks": {
+        "item_DFxLew": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<h6>Ce nettoyeur est super efficace pour enlever la boue et la saleté après les promenades, même entre les coussinets de mon chien. Les poils de la brosse sont très doux et respectent ses pattes. Résultat impeccable à chaque utilisation, je recommande  !</h6>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6yyAJ4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cyNLYz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_DFxLew",
+        "item_6yyAJ4",
+        "item_cyNLYz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<h6>Ce nettoyeur est super efficace pour enlever la boue et la saleté après les promenades, même entre les coussinets de mon chien. Les poils de la brosse sont très doux et respectent ses pattes. Résultat impeccable à chaque utilisation, je recommande  !</h6>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -379,6 +438,7 @@
     "before_after_image_mLX9Ah",
     "multi_column_Wid8iD",
     "custom_liquid_4cNcLn",
+    "multi_column_eLkk3y",
     "related-products",
     "faq_4U36wz"
   ]
