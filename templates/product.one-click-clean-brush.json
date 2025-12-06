@@ -48,10 +48,10 @@
             "text": "<p>One-Click Clean Brush attrape les poils morts en profondeur, démêle sans douleur et se nettoie automatiquement en appuyant simplement sur un bouton.</p>"
           }
         },
-        "price": {
-          "type": "price",
+        "rapi_rapi_bundle_nByYDM": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
-            "show_taxes_notice": false
+            "product": "{{product}}"
           }
         },
         "rating": {
@@ -102,7 +102,7 @@
         "description",
         "liquid_jFLUUh",
         "text_xWTF6N",
-        "price",
+        "rapi_rapi_bundle_nByYDM",
         "rating",
         "payment_terms",
         "separator",
