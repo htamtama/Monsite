@@ -263,6 +263,7 @@
         "item_DFxLew": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0373.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -275,10 +276,11 @@
         "item_6yyAJ4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0388.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h6>Efficace et très pratique contrairement à celui que j avais qui était manuel</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -287,6 +289,7 @@
         "item_cyNLYz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_0374.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
