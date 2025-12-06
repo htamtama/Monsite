@@ -209,6 +209,28 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "1765039989db146b1f": {
+      "type": "apps",
+      "blocks": {
+        "rapi_rapi_bundle_qkatQa": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "fur-n-gone™-retire-les-poils-en-un-seul-passage"
+          }
+        }
+      },
+      "block_order": [
+        "rapi_rapi_bundle_qkatQa"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -216,6 +238,7 @@
     "custom_liquid_FRDq4m",
     "custom_liquid_bYdRrX",
     "before_after_image_ATijbg",
-    "related-products"
+    "related-products",
+    "1765039989db146b1f"
   ]
 }
