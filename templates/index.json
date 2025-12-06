@@ -113,68 +113,6 @@
         "product_card_text_color": ""
       }
     },
-    "multi_column_B6M6t8": {
-      "type": "multi-column",
-      "blocks": {
-        "item_xWgLPY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_0373.jpg",
-            "column_size": "3",
-            "title": "Mina M.",
-            "heading_tag": "h5",
-            "content": "<h6>Ce nettoyeur est super efficace pour enlever la boue et la saleté après les promenades, même entre les coussinets de mon chien. Les poils de la brosse sont très doux et respectent ses pattes. Résultat impeccable à chaque utilisation, je recommande  !</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_UdjTkw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_0388.jpg",
-            "column_size": "3",
-            "title": "Karine I.",
-            "heading_tag": "h5",
-            "content": "<h6>Efficace et très pratique contrairement à celui que j avais qui était manuel</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_n3gixJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_0374.jpg",
-            "column_size": "3",
-            "title": "Manuel P.",
-            "heading_tag": "h5",
-            "content": "<h6>Super, mon chien et mon intérieur vous remercie. Franchement top👍</h6>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_xWgLPY",
-        "item_UdjTkw",
-        "item_n3gixJ"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "background": "#e8e8e8",
-        "background_gradient": "",
-        "text_color": "#1b1e2f"
-      }
-    },
     "contact_E39Hri": {
       "type": "contact",
       "name": "Contact form",
@@ -224,7 +162,6 @@
     "rich_text_3jGrtN",
     "slideshow",
     "featured_collection_8Gqfhz",
-    "multi_column_B6M6t8",
     "contact_E39Hri",
     "rich_text_ayEiMV"
   ]
