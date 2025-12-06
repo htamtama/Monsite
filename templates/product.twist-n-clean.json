@@ -48,10 +48,10 @@
             "text": "<p>🐶 Offrez à votre compagnon un nettoyage doux et sans stress — plus de traces de boue à la maison !</p>"
           }
         },
-        "price": {
-          "type": "price",
+        "rapi_rapi_bundle_M7EwpR": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
-            "show_taxes_notice": false
+            "product": "{{product}}"
           }
         },
         "rating": {
@@ -102,7 +102,7 @@
         "description",
         "liquid_jFLUUh",
         "text_xWTF6N",
-        "price",
+        "rapi_rapi_bundle_M7EwpR",
         "rating",
         "payment_terms",
         "separator",
